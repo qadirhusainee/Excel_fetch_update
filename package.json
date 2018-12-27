@@ -1,0 +1,17 @@
+{
+  "name": "vimeoid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "exceljs": "^1.6.3",
+    "promise": "^8.0.2"
+  }
+}
